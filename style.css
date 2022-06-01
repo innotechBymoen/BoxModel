@@ -1,0 +1,38 @@
+#section_one {
+    margin: 20px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+
+#section_one h1 {
+    background-color: orange;
+    padding: 10px;
+    margin: 5px;
+}
+
+#section_one p {
+    background-color: red;
+    padding: 5px;
+    margin: 10px;
+}
+
+#section_two {
+    margin: 50px;
+    padding: 50px;
+    background-color: purple;
+    color: white;
+}
+
+#section_two img {
+    width: 150px;
+    margin: 5px;
+    padding: 20px;
+    background-color: pink;
+}
+
+#section_two p {
+    margin: 15px;
+    padding: 10px;
+    background-color: hotpink;
+}
